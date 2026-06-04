@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+
+driver_report.csv/
+screenshots/
+
+venv/
+.env.local
+
+*.csv
